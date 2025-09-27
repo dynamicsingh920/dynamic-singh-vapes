@@ -1,0 +1,25 @@
+{
+  "name": "dynamic-singh-vapes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.6",
+    "create-next-app": "^15.5.3",
+    "netlify-identity-widget": "^1.9.2",
+    "node-fetch": "^3.3.2",
+    "qrcode.react": "^4.2.0",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/netlify-identity-widget": "^1.9.7",
+    "@types/uuid": "^10.0.0"
+  }
+}
