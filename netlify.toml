@@ -1,16 +1,12 @@
 [build]
-  base = "frontend"
-  command = "npm run build"
-  publish = ".next"
+  publish = "public"
 
 [functions]
-  directory = "../functions"
+  directory = "functions"
 
 [build.environment]
   NODE_VERSION = "18"
 
 [dev]
-  command = "npm run dev"
-  targetPort = 3000
-  publish = ".next"
-  framework = "nextjs"
+  command = "npx http-server public -p 8888"
+  publish = "public"

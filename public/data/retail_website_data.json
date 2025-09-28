@@ -1,0 +1,273 @@
+{
+  "store": {
+    "name": "Dynamic Vapes",
+    "tagline": "Premium Vaping Experience Delivered",
+    "description": "Your trusted online destination for authentic premium vaping products with fast delivery across India.",
+    "contact": {
+      "email": "support@dynamicvapes.com",
+      "phone": "+91-9999999999",
+      "whatsapp": "+91-9999999999",
+      "telegram": "@DynamicVapesBot",
+      "address": "Jaipur, Rajasthan, India"
+    },
+    "features": [
+      "✅ 100% Authentic Products",
+      "🚚 Free Delivery Above ₹1500",
+      "⚡ Same Day Delivery",
+      "🔒 Secure Payment Options",
+      "⭐ Premium Quality Assured",
+      "📱 Easy Online Ordering"
+    ],
+    "policies": {
+      "shipping": "Free shipping on orders above ₹1500. Same day delivery in major cities.",
+      "return": "7-day return policy for unopened products.",
+      "warranty": "Manufacturer warranty on all products.",
+      "payment": "COD, UPI, Cards, Net Banking accepted."
+    }
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Vapengin Pluto - Strawberry Watermelon",
+      "brand": "VAPENGIN",
+      "model": "Pluto",
+      "puffs": "7500 Puffs",
+      "original_price": 1200,
+      "sale_price": 899,
+      "discount": 25,
+      "images": ["vapegin.jpg", "vapegin1.jpg", "vapegin2.jpg", "vapegin3.jpg", "vapegin4.jpg", "vapegin5.jpg"],
+      "flavor": "Strawberry Watermelon",
+      "description": "Experience the perfect blend of juicy strawberries and refreshing watermelon in this premium disposable vape.",
+      "features": [
+        "7500 Long-lasting Puffs",
+        "Premium Build Quality",
+        "Smooth Draw",
+        "Rich Flavor"
+      ],
+      "category": "Fruit Flavors",
+      "rating": 4.8,
+      "in_stock": true
+    },
+    {
+      "id": 2,
+      "name": "Elux Legend - Silver Edition",
+      "brand": "ELUX",
+      "model": "Legend",
+      "puffs": "15000 Puffs",
+      "original_price": 2200,
+      "sale_price": 1899,
+      "discount": 15,
+      "images": ["elux.jpg", "elux1.jpg", "elux2.jpg", "elux3.jpg", "elux4.jpg", "elux5.jpg"],
+      "flavor": "Mixed Flavors Available",
+      "description": "Ultra-premium disposable vape with massive 15000 puff capacity and elegant silver design.",
+      "features": [
+        "15000 Puff Capacity",
+        "Premium Silver Finish",
+        "Long-lasting Battery",
+        "Multiple Flavors"
+      ],
+      "category": "Ultra Premium",
+      "rating": 4.9,
+      "in_stock": true
+    },
+    {
+      "id": 3,
+      "name": "Elux Legend - Gradient Pink",
+      "brand": "ELUX",
+      "model": "Legend",
+      "puffs": "15000 Puffs",
+      "original_price": 2200,
+      "sale_price": 1899,
+      "discount": 15,
+      "images": ["elux1.jpg", "elux2.jpg", "elux3.jpg", "elux4.jpg", "elux5.jpg"],
+      "flavor": "Strawberry Watermelon",
+      "description": "Beautiful gradient design with stunning pink finish and exceptional flavor delivery.",
+      "features": [
+        "15000 Puff Capacity",
+        "Gradient Design",
+        "Premium Colors",
+        "Smooth Vapor"
+      ],
+      "category": "Ultra Premium",
+      "rating": 4.8,
+      "in_stock": true
+    },
+    {
+      "id": 4,
+      "name": "Elux Legend - Black Edition",
+      "brand": "ELUX",
+      "model": "Legend",
+      "puffs": "15000 Puffs",
+      "original_price": 2200,
+      "sale_price": 1899,
+      "discount": 15,
+      "images": ["elux2.jpg", "elux3.jpg", "elux4.jpg", "elux5.jpg"],
+      "flavor": "Multiple Options",
+      "description": "Sleek black edition with professional look and ultra-high capacity performance.",
+      "features": [
+        "15000 Puff Capacity",
+        "Premium Black Design",
+        "Professional Look",
+        "Long Battery Life"
+      ],
+      "category": "Ultra Premium",
+      "rating": 4.9,
+      "in_stock": true
+    },
+    {
+      "id": 5,
+      "name": "Vapengin Pluto - Cherry Ice",
+      "brand": "VAPENGIN",
+      "model": "Pluto",
+      "puffs": "7500 Puffs",
+      "original_price": 1200,
+      "sale_price": 899,
+      "discount": 25,
+      "images": ["vapegin1.jpg", "vapegin2.jpg", "vapegin3.jpg", "vapegin4.jpg", "vapegin5.jpg"],
+      "flavor": "Cherry Ice",
+      "description": "Cool and refreshing cherry ice flavor with premium vapor production and smooth finish.",
+      "features": [
+        "Cherry Ice Flavor",
+        "7500 Puff Capacity",
+        "Cool Sensation",
+        "Premium Quality"
+      ],
+      "category": "Ice Flavors",
+      "rating": 4.7,
+      "in_stock": true
+    },
+    {
+      "id": 6,
+      "name": "Vapengin Pluto - Passion Fruit Kiwi Guava",
+      "brand": "VAPENGIN",
+      "model": "Pluto",
+      "puffs": "7500 Puffs",
+      "original_price": 1200,
+      "sale_price": 899,
+      "discount": 25,
+      "images": ["vapegin2.jpg", "vapegin3.jpg", "vapegin4.jpg", "vapegin5.jpg"],
+      "flavor": "Passion Fruit Kiwi Guava",
+      "description": "Exotic tropical blend of passion fruit, kiwi, and guava in a crystal clear design.",
+      "features": [
+        "Tropical Fruit Blend",
+        "7500 Puff Capacity",
+        "Crystal Design",
+        "Exotic Taste"
+      ],
+      "category": "Tropical Flavors",
+      "rating": 4.8,
+      "in_stock": true
+    },
+    {
+      "id": 7,
+      "name": "Vapengin Pluto - Blueberry Ice",
+      "brand": "VAPENGIN",
+      "model": "Pluto",
+      "puffs": "7500 Puffs",
+      "original_price": 1200,
+      "sale_price": 899,
+      "discount": 25,
+      "images": ["vapegin3.jpg", "vapegin4.jpg", "vapegin5.jpg"],
+      "flavor": "Blueberry Ice",
+      "description": "Sweet blueberries with a cool ice finish for the perfect balance of flavor and freshness.",
+      "features": [
+        "Blueberry Ice Flavor",
+        "7500 Puff Capacity",
+        "Sweet & Cool",
+        "Balanced Taste"
+      ],
+      "category": "Ice Flavors",
+      "rating": 4.7,
+      "in_stock": true
+    },
+    {
+      "id": 8,
+      "name": "Elux Legend - Premium White",
+      "brand": "ELUX",
+      "model": "Legend",
+      "puffs": "15000 Puffs",
+      "original_price": 2200,
+      "sale_price": 1899,
+      "discount": 15,
+      "images": ["elux3.jpg", "elux4.jpg", "elux5.jpg"],
+      "flavor": "Multiple Options",
+      "description": "Clean white design with premium finish and maximum puff capacity for extended enjoyment.",
+      "features": [
+        "15000 Puff Capacity",
+        "Clean White Design",
+        "Premium Finish",
+        "Extended Use"
+      ],
+      "category": "Ultra Premium",
+      "rating": 4.8,
+      "in_stock": true
+    },
+    {
+      "id": 9,
+      "name": "Vapengin Pluto - Original Orange",
+      "brand": "VAPENGIN",
+      "model": "Pluto",
+      "puffs": "7500 Puffs",
+      "original_price": 1200,
+      "sale_price": 899,
+      "discount": 25,
+      "images": ["vapegin4.jpg", "vapegin5.jpg"],
+      "flavor": "Original Orange",
+      "description": "Classic orange flavor with premium build quality and smooth vapor production.",
+      "features": [
+        "Original Orange Flavor",
+        "7500 Puff Capacity",
+        "Classic Taste",
+        "Premium Build"
+      ],
+      "category": "Classic Flavors",
+      "rating": 4.6,
+      "in_stock": true
+    },
+    {
+      "id": 10,
+      "name": "Elux Legend - Strawberry Watermelon (15k)",
+      "brand": "ELUX",
+      "model": "Legend",
+      "puffs": "15000 Puffs",
+      "original_price": 2200,
+      "sale_price": 1899,
+      "discount": 15,
+      "images": ["elux4.jpg", "elux5.jpg"],
+      "flavor": "Strawberry Watermelon",
+      "description": "Premium packaging with authentic strawberry watermelon flavor and ultra-long lasting performance.",
+      "features": [
+        "15000 Puff Capacity",
+        "Premium Packaging",
+        "Authentic Flavor",
+        "Ultra Long Lasting"
+      ],
+      "category": "Fruit Flavors",
+      "rating": 4.9,
+      "in_stock": true
+    }
+  ],
+  "categories": [
+    "All Products",
+    "Fruit Flavors",
+    "Ice Flavors",
+    "Tropical Flavors",
+    "Ultra Premium",
+    "Classic Flavors"
+  ],
+  "brands": [
+    "VAPENGIN",
+    "ELUX"
+  ],
+  "telegram_bot": {
+    "username": "@VapeZoneBot",
+    "features": [
+      "Browse Products",
+      "Check Prices",
+      "Place Orders",
+      "Track Delivery",
+      "Customer Support",
+      "Exclusive Deals"
+    ]
+  }
+}
