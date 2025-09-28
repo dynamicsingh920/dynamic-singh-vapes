@@ -16,7 +16,7 @@
     "netlify-identity-widget": "^1.9.2",
     "node-fetch": "^3.3.2",
     "qrcode.react": "^4.2.0",
-    "uuid": "^13.0.0"
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@types/netlify-identity-widget": "^1.9.7",

@@ -1,8 +1,16 @@
 # Dependencies
 /node_modules
+**/node_modules
 
 # Environment variables
 .env
 
 # Local Netlify folder
 .netlify
+
+# Next.js build output
+.next/
+frontend/.next/
+
+# Next.js generated files
+next-env.d.ts
